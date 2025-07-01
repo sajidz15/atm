@@ -20,3 +20,6 @@ The system ensures secure access and mimics a real ATM experience.
 - Basic banking transactions (check balance, withdraw, deposit)
 - PIN change functionality
 - Simple console-based interface (or GUI if you have one)
+
+
+https://github.com/sajidz15/atm/blob/main/ATM.ipynb
